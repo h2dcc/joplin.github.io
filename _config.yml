@@ -8,12 +8,12 @@ subtitle: '好好学习 天天向上'
 description: '法学法律工作笔记以及对IT互联网行业的观察笔记'
 keywords: 法学, 佛苏, fosu, 笔记, joplin, 博客
 author: Hyruo
-language: zh-cn
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://www.fosu.cc
+url: https://www.fosu.cc
 root: /
 permalink: /p/:abbrlink/
 permalink_defaults:
