@@ -4,8 +4,8 @@ title: 5. Joplin Privacy Policy
 abbrlink: 28be43cbc4fc4abc921a0cb897acd2b6
 tags: []
 categories:
-  - 1.Editor
-  - Network
+  - 实用教程
+  - Joplin使用教程
 date: 1712578973490
 updated: 1712578973490
 ---
